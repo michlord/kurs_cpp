@@ -1,0 +1,1 @@
+http://heanet.dl.sourceforge.net/project/mingwbuilds/host-windows/releases/4.8.0/32-bit/threads-win32/sjlj/x32-4.8.0-release-win32-sjlj-rev1.7z
